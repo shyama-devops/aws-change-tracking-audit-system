@@ -36,7 +36,7 @@ This project implements a **centralized change tracking system** that:
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](Architecture.png)
 
 ---
 
